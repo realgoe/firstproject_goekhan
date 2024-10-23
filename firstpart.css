@@ -1,0 +1,568 @@
+/* Group 767 */
+
+position: absolute;
+width: 1148px;
+height: 158px;
+left: 162px;
+top: 27px;
+
+
+
+/* Frame 71 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 281px;
+height: 44px;
+left: calc(50% - 281px/2 + 169.5px);
+top: 32px;
+
+
+
+/* Frame 69 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 24px;
+gap: 10px;
+
+width: 92px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* O nas */
+
+width: 44px;
+height: 24px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #032041;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 70 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 24px;
+gap: 10px;
+
+width: 79px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* FAQ */
+
+width: 31px;
+height: 24px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #032041;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 71 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 24px;
+gap: 10px;
+
+width: 110px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Kontakt */
+
+width: 62px;
+height: 24px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #032041;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Wybierz ubezpieczenie: */
+
+position: absolute;
+width: 269px;
+height: 24px;
+left: 162px;
+top: 125px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #032041;
+
+
+
+/* Frame 94 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 264px;
+height: 54px;
+left: 1046px;
+top: 27px;
+
+
+
+/* Frame 52 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px;
+gap: 10px;
+
+width: 54px;
+height: 54px;
+
+background: linear-gradient(180deg, #F1AB60 0%, #E06A34 100%);
+border-radius: 27px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* phone */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 8.8%;
+right: 8.33%;
+top: 8.33%;
+bottom: 8.63%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Skontaktuj się z nami */
+
+width: 164px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #032041;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 108 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 3px;
+
+position: absolute;
+width: 817px;
+height: 72px;
+left: calc(50% - 817px/2 + 149.5px);
+top: 113px;
+
+
+
+/* Frame 82 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px;
+
+width: 202px;
+height: 72px;
+
+background: linear-gradient(180deg, #F1AB60 0%, #E06A34 100%);
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Od nieruchomości */
+
+width: 141px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 83 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px;
+
+width: 202px;
+height: 72px;
+
+background: linear-gradient(180deg, #F1AB60 0%, #E06A34 100%);
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Komunikacyjne */
+
+width: 119px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 84 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px;
+
+width: 202px;
+height: 72px;
+
+background: linear-gradient(180deg, #F1AB60 0%, #E06A34 100%);
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Na życie */
+
+width: 66px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 85 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 15px;
+
+width: 202px;
+height: 72px;
+
+background: linear-gradient(180deg, #F1AB60 0%, #E06A34 100%);
+border-radius: 16px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Turystyczne */
+
+width: 97px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 25.07%;
+right: 60.5%;
+top: 0.89%;
+bottom: 98.32%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 28.83%;
+right: 60.5%;
+top: 0.91%;
+bottom: 98.66%;
+
+background: #1B1918;
+
+
+/* Mask group */
+
+position: absolute;
+left: 25.07%;
+right: 72.01%;
+top: 0.89%;
+bottom: 98.32%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 25.07%;
+right: 72.01%;
+top: 0.89%;
+bottom: 98.32%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.07%;
+right: 72.01%;
+top: 0.89%;
+bottom: 98.32%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 25.07%;
+right: 72.01%;
+top: 0.89%;
+bottom: 98.32%;
+
+
+
+/* Mask group */
+
+position: absolute;
+left: 25.07%;
+right: 72.01%;
+top: 0.89%;
+bottom: 98.32%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 25.07%;
+right: 72.01%;
+top: 0.89%;
+bottom: 98.32%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.07%;
+right: 72.01%;
+top: 0.89%;
+bottom: 98.32%;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 25.06%;
+right: 72.01%;
+top: 0.88%;
+bottom: 98.32%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.06%;
+right: 72.01%;
+top: 0.88%;
+bottom: 98.32%;
+
+background: url(image0_317_2.png);
+
+
+/* Vector */
+
+position: absolute;
+left: 28.82%;
+right: 65%;
+top: 1.34%;
+bottom: 98.41%;
+
+background: #1B1918;
+
+
+/* Line 4 */
+
+position: absolute;
+width: 60px;
+height: 0px;
+left: 330px;
+top: 27px;
+
+border: 1px solid #EAEAED;
+transform: rotate(90deg);
