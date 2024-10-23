@@ -1,9 +1,12 @@
 body {
     background: white;
-    margin: 0, 2, 0, 2;
+  justify-content:center ;
     
 }
 
 header{
-
+display: flex;
+justify-content: center;
 }
+
+
