@@ -10,3 +10,56 @@ justify-content: center;
 }
 
 
+
+.ub{
+top:55%;
+position: absolute;
+margin-left: 20%;
+}
+
+.first-pic{
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    justify-content: space-between;
+    margin: 19%;
+    margin-top: 2%;
+    margin-bottom: 2px;
+    
+}
+
+.oferta{
+    margin-top: 2px;
+    margin-left: 19%;
+}
+
+.sponsors{
+    margin-left: 19%;
+}
+
+.klienten{
+    margin-left: 19%;
+}
+
+.newsletter{
+    margin-left: 19%;
+    position: relative;
+}
+
+.adres{
+    
+
+top: 389.2%;
+margin-left: 45.1%;
+
+position: absolute;
+
+   }
+   textarea{
+    
+    width: 375px;
+    height: 40px;
+    font-size: 30px;
+    font: arial;
+    
+   }
