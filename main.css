@@ -7,6 +7,7 @@ body {
 header{
 display: flex;
 justify-content: center;
+margin-bottom: 0;
 }
 
 
@@ -55,7 +56,7 @@ margin-left: 45.1%;
 position: absolute;
 
    }
-   textarea{
+   .textare{
     
     width: 375px;
     height: 40px;
@@ -63,3 +64,218 @@ position: absolute;
     font: arial;
     
    }
+
+   .orange-Ca1{
+    display: flex;
+    position: relative;
+    margin-left: 19%;
+    top: 2px;
+   }
+
+   .orange-Ca1-pic{
+    display: flex;
+    position: absolute;
+    top: 130px;
+    margin-left: 45%;
+    border-radius: 10px,25%;
+   }
+
+   .firsttext{
+    display: flex;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 19%;
+   }
+
+   .formular{
+
+border-style: groove;
+border-radius: 5%;
+border-color:silver;
+border-width: 0.5px;
+background-color:#F6F6F6;
+    display: block;
+    position: absolute;
+    margin-left: 70%;
+    top: 600px;
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    
+   }
+
+   .hone{
+    font-size: medium;
+    display: flex;
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 0;
+    justify-content: center;
+   }
+   
+   .p{
+    display: flex;
+    justify-content: center;
+    color: silver;
+    font-weight: 100;
+    margin-bottom: 0;
+   }
+
+   .formi{
+    display: block;
+    justify-content: center;
+    margin-left: 50px;
+    margin-bottom: 20px;
+
+    input{
+        width: 250px;
+    }
+   }
+   .textarea{
+    
+    width: 20%;
+    height: 123px;
+    font: arial;
+    font-size: 10px;
+    margin-right: 20px;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 80px;
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10% ;
+
+}
+
+.ubezbi{
+    display: flex;
+    margin-left: 19%;
+    position: relative;
+    top: 0px;
+    margin-bottom: 50px;
+    
+
+    
+}
+
+.kastenorange{
+  display: flex;
+  margin-left: 20%;
+  margin-top: 20px;
+  height: 330px;
+  
+  position: absolute;   
+}
+
+.sytuacje{
+    display: flex;
+    margin-left: 19%;
+    position: relative;
+    top: 0px;
+    margin-bottom: 50px;
+}
+
+.kastenorange_second{
+    display: flex;
+  margin-left: 20%;
+  margin-top: 300px;
+  height: 330px;
+  
+  position: absolute;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color:#032041;
+    ;
+}
+
+.Zobacz{
+    margin-left: 19%;
+    margin-bottom: 50px;
+}
+
+.onas-pic{
+display: flex;
+position: relative;
+margin-top: 0;
+margin-bottom: 0;
+top: 0;
+margin-left: 47%;
+}
+
+.onas-kasten{
+    display: flex;
+    position: absolute;
+    top: 200px;
+    margin-left: 20%;
+    border-radius: 10px,25%;
+}
+
+.historia{
+    display: flex;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 19%;
+}
+
+.formulari{
+
+
+    display: block;
+    position: absolute;
+    margin-left: 19%;
+    top: 520px;
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.buttoni{
+    display: flex;
+   position: absolute;
+   justify-content: center;
+    align-items: center;
+    
+    width: 300px;
+    height: 40px;
+    
+    color: white;
+    
+   
+}
+
+.ptwo{
+    display: flex;
+    margin-left: 50px;
+    color: silver;
+    font-weight: 100;
+    margin-bottom: 0;
+}
+
+h3{
+    display: flex;
+    position: relative;
+    margin-left: 45.5%;
+    top: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.map{
+    display: flex;
+    position: relative;
+    margin-left: 45.5%;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
