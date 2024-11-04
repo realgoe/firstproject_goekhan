@@ -719,3 +719,42 @@ h3{
     img{width: 60%;}
 }
 }
+
+
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    z-index: 9;
+    align-items: flex-end;
+      @media(max-width:768px){
+    flex-wrap: wrap;        
+        }
+    .column-with-image{
+        padding:15px;
+        width: 100%;
+        margin:0 auto;
+        max-width: 100%;
+        position:relative;
+      
+        img{
+            width: 100%;
+        }
+        p{
+            background-color: orange;
+            padding: 20px;
+            max-width: 75%;
+            position: absolute;
+            left: 25px;
+            top: -35px;
+            margin: 0;
+            border-radius: 20px;
+            span{
+                font-weight: 300;
+                display: block;
+                color:green;
+            }
+        }
+    }
+}
